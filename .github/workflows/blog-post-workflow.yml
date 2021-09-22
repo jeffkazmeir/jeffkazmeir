@@ -1,0 +1,15 @@
+name: Latest blog post workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          feed_list: "https://jeffkazmeir.livejournal.com/data/rss,https://www.youtube.com/feeds/videos.xml?channel_id=UCEo82TuA0YdbXyO2oPecIHQ,https://www.flickr.com/services/feeds/photos_public.gne?id=194061586@N08&lang=en-us&format=rss_200,https://www.diigo.com/rss/profile/optionstradingje?privacy=public&sort=updated,https://optionstradingforbeginners.weebly.com/1/feed,https://howtotradeoptionsforbeginners.wordpress.com/feed/,https://optionstradingforbeginnersjeff.blogspot.com/feeds/posts/default?alt=rss"
