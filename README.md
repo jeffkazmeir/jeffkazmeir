@@ -41,6 +41,9 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [options-trading-for-beginners](https://www.flickr.com/photos/194061586@N08/51500426086/)
+- [options-trading-for-beginners](https://www.flickr.com/photos/194061586@N08/51500425236/)
+- [options-trading-for-beginners](https://www.flickr.com/photos/194061586@N08/51501137854/)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
