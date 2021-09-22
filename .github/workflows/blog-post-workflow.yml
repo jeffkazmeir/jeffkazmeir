@@ -11,5 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "10"
+          max_post_count: "50"
           feed_list: "https://jeffkazmeir.livejournal.com/data/rss,https://www.youtube.com/feeds/videos.xml?channel_id=UCEo82TuA0YdbXyO2oPecIHQ,https://www.flickr.com/services/feeds/photos_public.gne?id=194061586@N08&lang=en-us&format=rss_200,https://www.diigo.com/rss/profile/optionstradingje?privacy=public&sort=updated,https://optionstradingforbeginners.weebly.com/1/feed,https://howtotradeoptionsforbeginners.wordpress.com/feed/,https://optionstradingforbeginnersjeff.blogspot.com/feeds/posts/default?alt=rss"
