@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/channel/UCEo82TuA0YdbXyO2oPecIHQ
 [instagram]: https://tradingoptionsforbeginners.medium.com
 [linkedin]: https://ca.linkedin.com/in/theministerofcapitalism
-[website]: https://optionstradingforbeginnersjeff.blogspot.com
-[website]: https://jeffkazmeir.livejournal.com/
-[website]: http://joaoraimundoillustration.tumblr.com/
+ https://optionstradingforbeginnersjeff.blogspot.com
+ https://jeffkazmeir.livejournal.com/
+ http://joaoraimundoillustration.tumblr.com/
 
 
 
