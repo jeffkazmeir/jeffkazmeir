@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Puts: A Cornerstone of Options Trading](https://howtotradeoptionsforbeginners.wordpress.com/2021/09/27/puts-a-cornerstone-of-options-trading/)
 - [How To Reduce Risk and Maximize Profits with Options Trading Strategies](https://howtotradeoptionsforbeginners.wordpress.com/2021/09/27/how-to-reduce-risk-and-maximize-profits-with-options-trading-strategies/)
 - [How To Reduce Risk and Maximize Profits with Options Trading Strategies](https://optionstradingforbeginnersjeff.blogspot.com/2021/09/how-to-reduce-risk-and-maximize-profits.html)
 - [How To Reduce Risk and Maximize Profits with Options Trading Strategies](https://optionstradingforbeginnersjeff.blogspot.com/2021/09/how-to-reduce-risk-and-maximize-profits.html)
