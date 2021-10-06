@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trading options for beginners - YouTube](https://www.youtube.com/watch?v=8_mWmtpZb3o&feature=youtu.be)
 - [Options Trading 101](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/options-trading-101.html)
 - [Options Trading 101](https://howtotradeoptionsforbeginners.wordpress.com/2021/10/06/options-trading-101/)
 - [Options Trading 101](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/options-trading-101.html)
