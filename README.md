@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The benefits of call options in business - YouTube](https://www.youtube.com/watch?v=TOVNUwSCX4w&feature=youtu.be)
 - [Evaluating the Role of Call Options in the Business Ecosystem](https://howtotradeoptionsforbeginners.wordpress.com/2021/10/14/evaluating-the-role-of-call-options-in-the-business-ecosystem/)
 - [Evaluating the Role of Call Options in the Business Ecosystem](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/evaluating-role-of-call-options-in.html)
 - [Evaluating the Role of Call Options in the Business Ecosystem](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/evaluating-role-of-call-options-in.html)
@@ -50,7 +51,6 @@ Here are some ideas to get you started:
 - [Options Trading 101](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/options-trading-101.html)
 - [Puts: A Cornerstone of Options Trading](https://howtotradeoptionsforbeginners.wordpress.com/2021/09/27/puts-a-cornerstone-of-options-trading/)
 - [How To Reduce Risk and Maximize Profits with Options Trading Strategies](https://howtotradeoptionsforbeginners.wordpress.com/2021/09/27/how-to-reduce-risk-and-maximize-profits-with-options-trading-strategies/)
-- [How To Reduce Risk and Maximize Profits with Options Trading Strategies](https://optionstradingforbeginnersjeff.blogspot.com/2021/09/how-to-reduce-risk-and-maximize-profits.html)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
