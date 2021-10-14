@@ -41,6 +41,11 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Evaluating the Role of Call Options in the Business Ecosystem](https://howtotradeoptionsforbeginners.wordpress.com/2021/10/14/evaluating-the-role-of-call-options-in-the-business-ecosystem/)
+- [Evaluating the Role of Call Options in the Business Ecosystem](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/evaluating-role-of-call-options-in.html)
+- [Evaluating the Role of Call Options in the Business Ecosystem](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/evaluating-role-of-call-options-in.html)
+- [Trading options for beginners - YouTube](https://www.youtube.com/watch?v=8_mWmtpZb3o&feature=youtu.be)
+- [Options Trading 101](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/options-trading-101.html)
 - [Options Trading 101](https://howtotradeoptionsforbeginners.wordpress.com/2021/10/06/options-trading-101/)
 - [Options Trading 101](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/options-trading-101.html)
 - [Puts: A Cornerstone of Options Trading](https://howtotradeoptionsforbeginners.wordpress.com/2021/09/27/puts-a-cornerstone-of-options-trading/)
