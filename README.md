@@ -41,15 +41,11 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trading options for beginners - YouTube](https://www.youtube.com/watch?v=8_mWmtpZb3o&feature=youtu.be)
-- [Options Trading 101](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/options-trading-101.html)
 - [Options Trading 101](https://howtotradeoptionsforbeginners.wordpress.com/2021/10/06/options-trading-101/)
 - [Options Trading 101](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/options-trading-101.html)
 - [Puts: A Cornerstone of Options Trading](https://howtotradeoptionsforbeginners.wordpress.com/2021/09/27/puts-a-cornerstone-of-options-trading/)
 - [How To Reduce Risk and Maximize Profits with Options Trading Strategies](https://howtotradeoptionsforbeginners.wordpress.com/2021/09/27/how-to-reduce-risk-and-maximize-profits-with-options-trading-strategies/)
 - [How To Reduce Risk and Maximize Profits with Options Trading Strategies](https://optionstradingforbeginnersjeff.blogspot.com/2021/09/how-to-reduce-risk-and-maximize-profits.html)
-- [How To Reduce Risk and Maximize Profits with Options Trading Strategies](https://optionstradingforbeginnersjeff.blogspot.com/2021/09/how-to-reduce-risk-and-maximize-profits.html)
-- [The Basics of Trading Options - YouTube](https://www.youtube.com/watch?v=KhOsFSrA_mg&feature=youtu.be)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
