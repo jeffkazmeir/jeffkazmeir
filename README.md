@@ -41,16 +41,16 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Options Trading Books For Beginner - YouTube](https://www.youtube.com/watch?v=ulBakuVaLJA&feature=youtu.be)
+- [Beginner Basics for People Looking to Start Trading Options](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/beginner-basics-for-people-looking-to.html)
+- [Beginner Basics for People Looking to Start Trading Options](https://howtotradeoptionsforbeginners.wordpress.com/2021/10/22/beginner-basics-for-people-looking-to-start-trading-options/)
+- [Beginner Basics for People Looking to Start Trading Options](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/beginner-basics-for-people-looking-to.html)
 - [How to Swing Trade Options - YouTube](https://www.youtube.com/watch?v=NB3a1SFOHwM&feature=youtu.be)
 - [How to Swing Trade Options](https://howtotradeoptionsforbeginners.wordpress.com/2021/10/18/how-to-swing-trade-options/)
 - [How to Swing Trade Options](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/how-to-swing-trade-options.html)
 - [How to Swing Trade Options](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/how-to-swing-trade-options.html)
 - [The benefits of call options in business - YouTube](https://www.youtube.com/watch?v=TOVNUwSCX4w&feature=youtu.be)
 - [Evaluating the Role of Call Options in the Business Ecosystem](https://howtotradeoptionsforbeginners.wordpress.com/2021/10/14/evaluating-the-role-of-call-options-in-the-business-ecosystem/)
-- [Evaluating the Role of Call Options in the Business Ecosystem](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/evaluating-role-of-call-options-in.html)
-- [Evaluating the Role of Call Options in the Business Ecosystem](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/evaluating-role-of-call-options-in.html)
-- [Trading options for beginners - YouTube](https://www.youtube.com/watch?v=8_mWmtpZb3o&feature=youtu.be)
-- [Options Trading 101](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/options-trading-101.html)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
