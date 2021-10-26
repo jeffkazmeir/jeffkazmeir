@@ -41,16 +41,16 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beginner Info on Trading The Stock Market - YouTube](https://www.youtube.com/watch?v=agYTfxf2c3o&feature=youtu.be)
+- [Trading for Beginners: How the stock market works](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/trading-for-beginners-how-stock-market.html)
+- [Trading for Beginners: How the stock market works](https://howtotradeoptionsforbeginners.wordpress.com/2021/10/26/trading-for-beginners-how-the-stock-market-works/)
+- [Trading for Beginners: How the stock market works](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/trading-for-beginners-how-stock-market.html)
 - [Best Options Trading Books For Beginner - YouTube](https://www.youtube.com/watch?v=ulBakuVaLJA&feature=youtu.be)
 - [Beginner Basics for People Looking to Start Trading Options](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/beginner-basics-for-people-looking-to.html)
 - [Beginner Basics for People Looking to Start Trading Options](https://howtotradeoptionsforbeginners.wordpress.com/2021/10/22/beginner-basics-for-people-looking-to-start-trading-options/)
 - [Beginner Basics for People Looking to Start Trading Options](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/beginner-basics-for-people-looking-to.html)
 - [How to Swing Trade Options - YouTube](https://www.youtube.com/watch?v=NB3a1SFOHwM&feature=youtu.be)
 - [How to Swing Trade Options](https://howtotradeoptionsforbeginners.wordpress.com/2021/10/18/how-to-swing-trade-options/)
-- [How to Swing Trade Options](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/how-to-swing-trade-options.html)
-- [How to Swing Trade Options](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/how-to-swing-trade-options.html)
-- [The benefits of call options in business - YouTube](https://www.youtube.com/watch?v=TOVNUwSCX4w&feature=youtu.be)
-- [Evaluating the Role of Call Options in the Business Ecosystem](https://howtotradeoptionsforbeginners.wordpress.com/2021/10/14/evaluating-the-role-of-call-options-in-the-business-ecosystem/)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
