@@ -41,6 +41,9 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is day trading really worth it?](https://howtotradeoptionsforbeginners.wordpress.com/2021/11/04/is-day-trading-really-worth-it/)
+- [Is day trading really worth it?](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/is-day-trading-really-worth-it.html)
+- [Is day trading really worth it?](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/is-day-trading-really-worth-it.html)
 - [Tips & Info for stock market Beginners - YouTube](https://www.youtube.com/watch?v=57lYtFvduHM&feature=youtu.be)
 - [Tips for People Looking to Start Trading in the Stock Market](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/tips-for-people-looking-to-start.html)
 - [Tips for People Looking to Start Trading in the Stock Market](https://howtotradeoptionsforbeginners.wordpress.com/2021/10/29/tips-for-people-looking-to-start-trading-in-the-stock-market/)
@@ -48,9 +51,6 @@ Here are some ideas to get you started:
 - [Beginner Info on Trading The Stock Market - YouTube](https://www.youtube.com/watch?v=agYTfxf2c3o&feature=youtu.be)
 - [Trading for Beginners: How the stock market works](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/trading-for-beginners-how-stock-market.html)
 - [Trading for Beginners: How the stock market works](https://howtotradeoptionsforbeginners.wordpress.com/2021/10/26/trading-for-beginners-how-the-stock-market-works/)
-- [Trading for Beginners: How the stock market works](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/trading-for-beginners-how-stock-market.html)
-- [Best Options Trading Books For Beginner - YouTube](https://www.youtube.com/watch?v=ulBakuVaLJA&feature=youtu.be)
-- [Beginner Basics for People Looking to Start Trading Options](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/beginner-basics-for-people-looking-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
