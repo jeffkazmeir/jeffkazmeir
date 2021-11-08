@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - [Is day trading really worth it?](https://howtotradeoptionsforbeginners.wordpress.com/2021/11/04/is-day-trading-really-worth-it/)
 - [Is day trading really worth it?](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/is-day-trading-really-worth-it.html)
 - [Is day trading really worth it?](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/is-day-trading-really-worth-it.html)
-- [Tips & Info for stock market Beginners - YouTube](https://www.youtube.com/watch?v=57lYtFvduHM&feature=youtu.be)
+- [Tips &amp; Info for stock market Beginners - YouTube](https://www.youtube.com/watch?v=57lYtFvduHM&feature=youtu.be)
 - [Tips for People Looking to Start Trading in the Stock Market](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/tips-for-people-looking-to-start.html)
 - [Tips for People Looking to Start Trading in the Stock Market](https://howtotradeoptionsforbeginners.wordpress.com/2021/10/29/tips-for-people-looking-to-start-trading-in-the-stock-market/)
 - [Tips for People Looking to Start Trading in the Stock Market](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/tips-for-people-looking-to-start.html)
