@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 - [Is Survey Voices a Complete Scam? A Survey Voices Review](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/is-survey-voices-complete-scam-survey.html)
+- [Is Survey Voices a Complete Scam? A Survey Voices Review](https://howtotradeoptionsforbeginners.wordpress.com/2021/11/29/is-survey-voices-a-complete-scam-a-survey-voices-review/)
+- [Is Survey Voices a Complete Scam? A Survey Voices Review](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/is-survey-voices-complete-scam-survey.html)
 - [The best tablet for trading - A Quick Review - YouTube](https://www.youtube.com/watch?v=RFizzY5mTQQ&feature=youtu.be)
 - [Great Tablets to Use When Trading Options](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/great-tablets-to-use-when-trading.html)
 - [Great Tablets to Use When Trading Options](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/great-tablets-to-use-when-trading.html)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
 - [Is day trading really worth it?](https://howtotradeoptionsforbeginners.wordpress.com/2021/11/04/is-day-trading-really-worth-it/)
 - [Is day trading really worth it?](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/is-day-trading-really-worth-it.html)
 - [Is day trading really worth it?](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/is-day-trading-really-worth-it.html)
-- [Tips &amp; Info for stock market Beginners - YouTube](https://www.youtube.com/watch?v=57lYtFvduHM&feature=youtu.be)
-- [Tips for People Looking to Start Trading in the Stock Market](https://optionstradingforbeginnersjeff.blogspot.com/2021/10/tips-for-people-looking-to-start.html)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
