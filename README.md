@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Big Survey Voices Review: Is it a Scam or Legit? - YouTube](https://www.youtube.com/watch?v=nglk279yySk&feature=youtu.be)
 - [Is Survey Voices a Complete Scam? A Survey Voices Review](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/is-survey-voices-complete-scam-survey.html)
 - [Is Survey Voices a Complete Scam? A Survey Voices Review](https://howtotradeoptionsforbeginners.wordpress.com/2021/11/29/is-survey-voices-a-complete-scam-a-survey-voices-review/)
 - [Is Survey Voices a Complete Scam? A Survey Voices Review](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/is-survey-voices-complete-scam-survey.html)
@@ -49,7 +50,6 @@ Here are some ideas to get you started:
 - [Great Tablets to Use When Trading Options](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/great-tablets-to-use-when-trading.html)
 - [Is day trading worth it? - YouTube](https://www.youtube.com/watch?v=Wy9SwyNx2wc&feature=youtu.be)
 - [Is day trading really worth it?](https://howtotradeoptionsforbeginners.wordpress.com/2021/11/04/is-day-trading-really-worth-it/)
-- [Is day trading really worth it?](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/is-day-trading-really-worth-it.html)
 - [Is day trading really worth it?](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/is-day-trading-really-worth-it.html)
 <!-- BLOG-POST-LIST:END -->
 
