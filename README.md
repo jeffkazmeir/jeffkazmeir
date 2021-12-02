@@ -41,16 +41,16 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Save $5000 in a Year : Get the Printable Chart Below - YouTube](https://www.youtube.com/watch?v=yIbN3ir83zI&feature=youtu.be)
+- [The 52 Week Challenge: How to Save $5000 in a Year](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/the-52-week-challenge-how-to-save-5000.html)
+- [The 52 Week Challenge: How to Save $5000 in a Year](https://howtotradeoptionsforbeginners.wordpress.com/2021/12/02/the-52-week-challenge-how-to-save-5000-in-a-year/)
+- [The 52 Week Challenge: How to Save $5000 in a Year](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/the-52-week-challenge-how-to-save-5000.html)
 - [The Big Survey Voices Review: Is it a Scam or Legit? - YouTube](https://www.youtube.com/watch?v=nglk279yySk&feature=youtu.be)
 - [Is Survey Voices a Complete Scam? A Survey Voices Review](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/is-survey-voices-complete-scam-survey.html)
 - [Is Survey Voices a Complete Scam? A Survey Voices Review](https://howtotradeoptionsforbeginners.wordpress.com/2021/11/29/is-survey-voices-a-complete-scam-a-survey-voices-review/)
 - [Is Survey Voices a Complete Scam? A Survey Voices Review](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/is-survey-voices-complete-scam-survey.html)
 - [The best tablet for trading - A Quick Review - YouTube](https://www.youtube.com/watch?v=RFizzY5mTQQ&feature=youtu.be)
 - [Great Tablets to Use When Trading Options](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/great-tablets-to-use-when-trading.html)
-- [Great Tablets to Use When Trading Options](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/great-tablets-to-use-when-trading.html)
-- [Is day trading worth it? - YouTube](https://www.youtube.com/watch?v=Wy9SwyNx2wc&feature=youtu.be)
-- [Is day trading really worth it?](https://howtotradeoptionsforbeginners.wordpress.com/2021/11/04/is-day-trading-really-worth-it/)
-- [Is day trading really worth it?](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/is-day-trading-really-worth-it.html)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
