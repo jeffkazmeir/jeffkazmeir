@@ -41,16 +41,16 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Get Paid By Google &amp; Other Image Sharing Apps for Taking Pictures - YouTube](https://www.youtube.com/watch?v=t1BqCHa40kg&feature=youtu.be)
+- [[NEW SIDE HUSTLE] How to Get Paid By Google &amp; Other Image Sharing Apps for Taking Photos](https://howtotradeoptionsforbeginners.wordpress.com/2021/12/06/new-side-hustle-how-to-get-paid-by-google-other-image-sharing-apps-for-taking-photos/)
+- [[NEW SIDE HUSTLE] How to Get Paid By Google &amp; Other Image Sharing Apps for Taking Photos](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/new-side-hustle-how-to-get-paid-by.html)
+- [[NEW SIDE HUSTLE] How to Get Paid By Google &amp; Other Image Sharing Apps for Taking Photos](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/new-side-hustle-how-to-get-paid-by.html)
 - [How to Save $5000 in a Year : Get the Printable Chart Below - YouTube](https://www.youtube.com/watch?v=yIbN3ir83zI&feature=youtu.be)
 - [The 52 Week Challenge: How to Save $5000 in a Year](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/the-52-week-challenge-how-to-save-5000.html)
 - [The 52 Week Challenge: How to Save $5000 in a Year](https://howtotradeoptionsforbeginners.wordpress.com/2021/12/02/the-52-week-challenge-how-to-save-5000-in-a-year/)
 - [The 52 Week Challenge: How to Save $5000 in a Year](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/the-52-week-challenge-how-to-save-5000.html)
 - [The Big Survey Voices Review: Is it a Scam or Legit? - YouTube](https://www.youtube.com/watch?v=nglk279yySk&feature=youtu.be)
 - [Is Survey Voices a Complete Scam? A Survey Voices Review](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/is-survey-voices-complete-scam-survey.html)
-- [Is Survey Voices a Complete Scam? A Survey Voices Review](https://howtotradeoptionsforbeginners.wordpress.com/2021/11/29/is-survey-voices-a-complete-scam-a-survey-voices-review/)
-- [Is Survey Voices a Complete Scam? A Survey Voices Review](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/is-survey-voices-complete-scam-survey.html)
-- [The best tablet for trading - A Quick Review - YouTube](https://www.youtube.com/watch?v=RFizzY5mTQQ&feature=youtu.be)
-- [Great Tablets to Use When Trading Options](https://optionstradingforbeginnersjeff.blogspot.com/2021/11/great-tablets-to-use-when-trading.html)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
