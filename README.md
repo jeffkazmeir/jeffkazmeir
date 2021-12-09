@@ -41,6 +41,9 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Get a Welding Job](https://howtotradeoptionsforbeginners.wordpress.com/2021/12/09/how-to-get-a-welding-job/)
+- [How to Get a Welding Job](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/how-to-get-welding-job.html)
+- [How to Get a Welding Job](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/how-to-get-welding-job.html)
 - [Earny Review: Is Earny Safe? - YouTube](https://www.youtube.com/watch?v=n5Yvp8Fd_so&feature=youtu.be)
 - [The Earny Review: Is Earny Legit and Is Earny Safe? You&#39;ll find out here](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/the-earny-review-is-earny-legit-and-is.html)
 - [The Earny Review: Is Earny Legit and Is Earny Safe? You’ll find out here](https://howtotradeoptionsforbeginners.wordpress.com/2021/12/07/the-earny-review-is-earny-legit-and-is-earny-safe-youll-find-out-here/)
@@ -48,9 +51,6 @@ Here are some ideas to get you started:
 - [How to Get Paid By Google &amp; Other Image Sharing Apps for Taking Pictures - YouTube](https://www.youtube.com/watch?v=t1BqCHa40kg&feature=youtu.be)
 - [[NEW SIDE HUSTLE] How to Get Paid By Google &amp; Other Image Sharing Apps for Taking Photos](https://howtotradeoptionsforbeginners.wordpress.com/2021/12/06/new-side-hustle-how-to-get-paid-by-google-other-image-sharing-apps-for-taking-photos/)
 - [[NEW SIDE HUSTLE] How to Get Paid By Google &amp; Other Image Sharing Apps for Taking Photos](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/new-side-hustle-how-to-get-paid-by.html)
-- [[NEW SIDE HUSTLE] How to Get Paid By Google &amp; Other Image Sharing Apps for Taking Photos](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/new-side-hustle-how-to-get-paid-by.html)
-- [How to Save $5000 in a Year : Get the Printable Chart Below - YouTube](https://www.youtube.com/watch?v=yIbN3ir83zI&feature=youtu.be)
-- [The 52 Week Challenge: How to Save $5000 in a Year](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/the-52-week-challenge-how-to-save-5000.html)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
