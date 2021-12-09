@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Get Welding Jobs for Beginners - YouTube](https://www.youtube.com/watch?v=k4bZywTzJ6o&feature=youtu.be)
 - [How to Get a Welding Job](https://howtotradeoptionsforbeginners.wordpress.com/2021/12/09/how-to-get-a-welding-job/)
 - [How to Get a Welding Job](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/how-to-get-welding-job.html)
 - [How to Get a Welding Job](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/how-to-get-welding-job.html)
@@ -50,7 +51,6 @@ Here are some ideas to get you started:
 - [The Earny Review: Is Earny Legit and Is Earny Safe? You&#39;ll find out here](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/the-earny-review-is-earny-legit-and-is.html)
 - [How to Get Paid By Google &amp; Other Image Sharing Apps for Taking Pictures - YouTube](https://www.youtube.com/watch?v=t1BqCHa40kg&feature=youtu.be)
 - [[NEW SIDE HUSTLE] How to Get Paid By Google &amp; Other Image Sharing Apps for Taking Photos](https://howtotradeoptionsforbeginners.wordpress.com/2021/12/06/new-side-hustle-how-to-get-paid-by-google-other-image-sharing-apps-for-taking-photos/)
-- [[NEW SIDE HUSTLE] How to Get Paid By Google &amp; Other Image Sharing Apps for Taking Photos](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/new-side-hustle-how-to-get-paid-by.html)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
