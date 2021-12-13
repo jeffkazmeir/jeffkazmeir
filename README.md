@@ -41,16 +41,16 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Does Starbucks do Cash Back? Not Without These Tricks - YouTube](https://www.youtube.com/watch?v=hIpkvEjDsWk&feature=youtu.be)
+- [Can you get cash back at Starbucks &amp; Does Starbucks Do Cash Back? Here&#39;s the REAL Answer](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/can-you-get-cash-back-at-starbucks-does.html)
+- [Can you get cash back at Starbucks &amp; Does Starbucks Do Cash Back? Here’s the REAL Answer](https://howtotradeoptionsforbeginners.wordpress.com/2021/12/13/can-you-get-cash-back-at-starbucks-does-starbucks-do-cash-back-heres-the-real-answer/)
+- [Can you get cash back at Starbucks &amp; Does Starbucks Do Cash Back? Here&#39;s the REAL Answer](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/can-you-get-cash-back-at-starbucks-does.html)
 - [Want to Get Paid to Watch TikTok? Get the Info Here](https://www.youtube.com/watch?v=TPCEDiTAxOY&feature=youtu.be)
 - [Is it really possible to get paid to watch TikTok? Find out the Truth](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/is-it-really-possible-to-get-paid-to.html)
 - [Is it really possible to get paid to watch TikTok? Find out the Truth](https://howtotradeoptionsforbeginners.wordpress.com/2021/12/10/is-it-really-possible-to-get-paid-to-watch-tiktok-find-out-the-truth/)
 - [Is it really possible to get paid to watch TikTok? Find out the Truth](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/is-it-really-possible-to-get-paid-to.html)
 - [How to Get Welding Jobs for Beginners - YouTube](https://www.youtube.com/watch?v=k4bZywTzJ6o&feature=youtu.be)
 - [How to Get a Welding Job](https://howtotradeoptionsforbeginners.wordpress.com/2021/12/09/how-to-get-a-welding-job/)
-- [How to Get a Welding Job](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/how-to-get-welding-job.html)
-- [How to Get a Welding Job](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/how-to-get-welding-job.html)
-- [Earny Review: Is Earny Safe? - YouTube](https://www.youtube.com/watch?v=n5Yvp8Fd_so&feature=youtu.be)
-- [The Earny Review: Is Earny Legit and Is Earny Safe? You&#39;ll find out here](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/the-earny-review-is-earny-legit-and-is.html)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
