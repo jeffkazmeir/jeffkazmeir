@@ -41,16 +41,16 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wondering what the best stock market gifts for dad are? I&#39;ve found them! - YouTube](https://www.youtube.com/watch?v=FpT_2FebtBk&feature=youtu.be)
+- [Gift Ideas for The Finance Geek on Your List](https://howtotradeoptionsforbeginners.wordpress.com/2021/12/17/gift-ideas-for-the-finance-geek-on-your-list/)
+- [Gift Ideas for The Finance Geek on Your List](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/gift-ideas-for-finance-geek-on-your-list.html)
+- [Gift Ideas for The Finance Geek on Your List](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/gift-ideas-for-finance-geek-on-your-list.html)
 - [Does Starbucks do Cash Back? Not Without These Tricks - YouTube](https://www.youtube.com/watch?v=hIpkvEjDsWk&feature=youtu.be)
 - [Can you get cash back at Starbucks &amp; Does Starbucks Do Cash Back? Here&#39;s the REAL Answer](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/can-you-get-cash-back-at-starbucks-does.html)
 - [Can you get cash back at Starbucks &amp; Does Starbucks Do Cash Back? Here’s the REAL Answer](https://howtotradeoptionsforbeginners.wordpress.com/2021/12/13/can-you-get-cash-back-at-starbucks-does-starbucks-do-cash-back-heres-the-real-answer/)
 - [Can you get cash back at Starbucks &amp; Does Starbucks Do Cash Back? Here&#39;s the REAL Answer](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/can-you-get-cash-back-at-starbucks-does.html)
 - [Want to Get Paid to Watch TikTok? Get the Info Here](https://www.youtube.com/watch?v=TPCEDiTAxOY&feature=youtu.be)
 - [Is it really possible to get paid to watch TikTok? Find out the Truth](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/is-it-really-possible-to-get-paid-to.html)
-- [Is it really possible to get paid to watch TikTok? Find out the Truth](https://howtotradeoptionsforbeginners.wordpress.com/2021/12/10/is-it-really-possible-to-get-paid-to-watch-tiktok-find-out-the-truth/)
-- [Is it really possible to get paid to watch TikTok? Find out the Truth](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/is-it-really-possible-to-get-paid-to.html)
-- [How to Get Welding Jobs for Beginners - YouTube](https://www.youtube.com/watch?v=k4bZywTzJ6o&feature=youtu.be)
-- [How to Get a Welding Job](https://howtotradeoptionsforbeginners.wordpress.com/2021/12/09/how-to-get-a-welding-job/)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
