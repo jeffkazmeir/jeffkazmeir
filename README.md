@@ -41,6 +41,9 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Quick Stock Trading Tips to Help You Improve Your Trading Success](https://howtotradeoptionsforbeginners.wordpress.com/2022/01/03/3-quick-stock-trading-tips-to-help-you-improve-your-trading-success/)
+- [3 Quick Stock Trading Tips to Help You Improve Your Trading Success](https://optionstradingforbeginnersjeff.blogspot.com/2022/01/3-quick-stock-trading-tips-to-help-you.html)
+- [3 Quick Stock Trading Tips to Help You Improve Your Trading Success](https://optionstradingforbeginnersjeff.blogspot.com/2022/01/3-quick-stock-trading-tips-to-help-you.html)
 - [Wondering Can You Make 200 a Day with Doordash? - YouTube](https://www.youtube.com/watch?v=wN1Ee7ujFto&feature=youtu.be)
 - [How much can you actually make with doordash?](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/how-much-can-you-actually-make-with.html)
 - [How much can you actually make with doordash?](https://howtotradeoptionsforbeginners.wordpress.com/2021/12/20/how-much-can-you-actually-make-with-doordash/)
@@ -48,9 +51,6 @@ Here are some ideas to get you started:
 - [Wondering what the best stock market gifts for dad are? I&#39;ve found them! - YouTube](https://www.youtube.com/watch?v=FpT_2FebtBk&feature=youtu.be)
 - [Gift Ideas for The Finance Geek on Your List](https://howtotradeoptionsforbeginners.wordpress.com/2021/12/17/gift-ideas-for-the-finance-geek-on-your-list/)
 - [Gift Ideas for The Finance Geek on Your List](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/gift-ideas-for-finance-geek-on-your-list.html)
-- [Gift Ideas for The Finance Geek on Your List](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/gift-ideas-for-finance-geek-on-your-list.html)
-- [Does Starbucks do Cash Back? Not Without These Tricks - YouTube](https://www.youtube.com/watch?v=hIpkvEjDsWk&feature=youtu.be)
-- [Can you get cash back at Starbucks &amp; Does Starbucks Do Cash Back? Here&#39;s the REAL Answer](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/can-you-get-cash-back-at-starbucks-does.html)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
