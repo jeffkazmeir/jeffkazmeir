@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If you&#39;re looking for paint safe for baby crib you need to see this - YouTube](https://www.youtube.com/watch?v=G3GYDqmwVJk&feature=youtu.be)
 - [Tips for Choosing the paint safe for baby crib](https://optionstradingforbeginnersjeff.blogspot.com/2022/01/tips-for-choosing-paint-safe-for-baby.html)
 - [Tips for Choosing the paint safe for baby crib](https://howtotradeoptionsforbeginners.wordpress.com/2022/01/07/tips-for-choosing-the-paint-safe-for-baby-crib/)
 - [Tips for Choosing the paint safe for baby crib](https://optionstradingforbeginnersjeff.blogspot.com/2022/01/tips-for-choosing-paint-safe-for-baby.html)
@@ -50,7 +51,6 @@ Here are some ideas to get you started:
 - [Wondering Can You Make 200 a Day with Doordash? - YouTube](https://www.youtube.com/watch?v=wN1Ee7ujFto&feature=youtu.be)
 - [How much can you actually make with doordash?](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/how-much-can-you-actually-make-with.html)
 - [How much can you actually make with doordash?](https://howtotradeoptionsforbeginners.wordpress.com/2021/12/20/how-much-can-you-actually-make-with-doordash/)
-- [How much can you actually make with doordash?](https://optionstradingforbeginnersjeff.blogspot.com/2021/12/how-much-can-you-actually-make-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
