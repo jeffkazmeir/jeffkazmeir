@@ -41,16 +41,16 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [www.youtube.com](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrBEDL_-xa3Y&feature=youtu.be)
+- [Remote Work is Re-shaping the Work Environment. Here are some pros &amp; cons](https://optionstradingforbeginnersjeff.blogspot.com/2022/03/remote-work-is-re-shaping-work.html)
+- [Remote Work is Re-shaping the Work Environment. Here are some pros &amp; cons](https://howtotradeoptionsforbeginners.wordpress.com/2022/03/24/remote-work-is-re-shaping-the-work-environment-here-are-some-pros-cons/)
+- [Remote Work is Re-shaping the Work Environment. Here are some pros &amp; cons](https://optionstradingforbeginnersjeff.blogspot.com/2022/03/remote-work-is-re-shaping-work.html)
 - [www.youtube.com](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0J4ayQmgxBU&feature=youtu.be)
 - [What to Keep in Mind When Looking for a Mortgage](https://optionstradingforbeginnersjeff.blogspot.com/2022/03/what-to-keep-in-mind-when-looking-for.html)
 - [What to Keep in Mind When Looking for a Mortgage](https://howtotradeoptionsforbeginners.wordpress.com/2022/03/07/what-to-keep-in-mind-when-looking-for-a-mortgage/)
 - [What to Keep in Mind When Looking for  a Mortgage](https://optionstradingforbeginnersjeff.blogspot.com/2022/03/what-to-keep-in-mind-when-looking-for.html)
 - [If you&#39;re looking for paint safe for baby crib you need to see this - YouTube](https://www.youtube.com/watch?v=G3GYDqmwVJk&feature=youtu.be)
 - [Tips for Choosing the paint safe for baby crib](https://optionstradingforbeginnersjeff.blogspot.com/2022/01/tips-for-choosing-paint-safe-for-baby.html)
-- [Tips for Choosing the paint safe for baby crib](https://howtotradeoptionsforbeginners.wordpress.com/2022/01/07/tips-for-choosing-the-paint-safe-for-baby-crib/)
-- [Tips for Choosing the paint safe for baby crib](https://optionstradingforbeginnersjeff.blogspot.com/2022/01/tips-for-choosing-paint-safe-for-baby.html)
-- [3 Quick Stock Trading Tips to Help You Improve Your Trading Success](https://howtotradeoptionsforbeginners.wordpress.com/2022/01/03/3-quick-stock-trading-tips-to-help-you-improve-your-trading-success/)
-- [3 Quick Stock Trading Tips to Help You Improve Your Trading Success](https://optionstradingforbeginnersjeff.blogspot.com/2022/01/3-quick-stock-trading-tips-to-help-you.html)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
