@@ -41,16 +41,16 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [www.youtube.com](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_-O5oWpjpvU&feature=youtu.be)
+- [What to look for when looking for the best tablet for stock trading](https://optionstradingforbeginnersjeff.blogspot.com/2022/03/what-to-look-for-when-looking-for-best.html)
+- [What to look for when looking for the best tablet for stock trading](https://howtotradeoptionsforbeginners.wordpress.com/2022/03/31/what-to-look-for-when-looking-for-the-best-tablet-for-stock-trading/)
+- [What to look for when looking for the best tablet for stock trading](https://optionstradingforbeginnersjeff.blogspot.com/2022/03/what-to-look-for-when-looking-for-best.html)
 - [www.youtube.com](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dp5nMad4z5gM&feature=youtu.be)
 - [Here&#39;s what to keep in mind when you&#39;re looking for a table to trade stocks](https://optionstradingforbeginnersjeff.blogspot.com/2022/03/heres-what-to-keep-in-mind-when-youre.html)
 - [Here’s what to keep in mind when you’re looking for a table to trade stocks](https://howtotradeoptionsforbeginners.wordpress.com/2022/03/30/heres-what-to-keep-in-mind-when-youre-looking-for-a-table-to-trade-stocks/)
 - [Here&#39;s what to keep in mind when you&#39;re looking for a table to trade stocks](https://optionstradingforbeginnersjeff.blogspot.com/2022/03/heres-what-to-keep-in-mind-when-youre.html)
 - [www.youtube.com](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrBEDL_-xa3Y&feature=youtu.be)
 - [Remote Work is Re-shaping the Work Environment. Here are some pros &amp; cons](https://optionstradingforbeginnersjeff.blogspot.com/2022/03/remote-work-is-re-shaping-work.html)
-- [Remote Work is Re-shaping the Work Environment. Here are some pros &amp; cons](https://howtotradeoptionsforbeginners.wordpress.com/2022/03/24/remote-work-is-re-shaping-the-work-environment-here-are-some-pros-cons/)
-- [Remote Work is Re-shaping the Work Environment. Here are some pros &amp; cons](https://optionstradingforbeginnersjeff.blogspot.com/2022/03/remote-work-is-re-shaping-work.html)
-- [www.youtube.com](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0J4ayQmgxBU&feature=youtu.be)
-- [What to Keep in Mind When Looking for a Mortgage](https://optionstradingforbeginnersjeff.blogspot.com/2022/03/what-to-keep-in-mind-when-looking-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
