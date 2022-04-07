@@ -41,16 +41,16 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trade Genie Reviews – Scam or Good Idea?](https://howtotradeoptionsforbeginners.wordpress.com/2022/04/07/trade-genie-reviews-scam-or-good-idea/)
+- [Trade Genie Reviews - Scam or Good Idea?](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/trade-genie-reviews-scam-or-good-idea.html)
+- [www.youtube.com](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DV0bihjw7RXA&feature=youtu.be)
+- [Trade Genie Reviews - Scam or Good Idea?](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/trade-genie-reviews-scam-or-good-idea.html)
 - [www.youtube.com](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFThmysSXZh4&feature=youtu.be)
 - [Some Trading Indicators to Keep In Mind as a Beginner](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/some-trading-indicators-to-keep-in-mind.html)
 - [Some Trading Indicators to Keep In Mind as a Beginner](https://howtotradeoptionsforbeginners.wordpress.com/2022/04/05/some-trading-indicators-to-keep-in-mind-as-a-beginner/)
 - [Some Trading Indicators to Keep In Mind as a Beginner](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/some-trading-indicators-to-keep-in-mind.html)
 - [www.youtube.com](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7cdSrdT0PHY&feature=youtu.be)
 - [Who has the best options trading advisory service?](https://howtotradeoptionsforbeginners.wordpress.com/2022/04/05/who-has-the-best-options-trading-advisory-service/)
-- [Who has the best options trading advisory service?](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/who-has-best-options-trading-advisory.html)
-- [Who has the best options trading advisory service?](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/who-has-best-options-trading-advisory.html)
-- [www.youtube.com](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_-O5oWpjpvU&feature=youtu.be)
-- [What to look for when looking for the best tablet for stock trading](https://optionstradingforbeginnersjeff.blogspot.com/2022/03/what-to-look-for-when-looking-for-best.html)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
