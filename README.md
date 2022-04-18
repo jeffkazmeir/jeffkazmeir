@@ -41,16 +41,16 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Base camp trading review - Are they a rip off?](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/base-camp-trading-review-are-they-rip.html)
+- [Base camp trading review – Are they a rip off?](https://howtotradeoptionsforbeginners.wordpress.com/2022/04/18/base-camp-trading-review-are-they-a-rip-off/)
+- [Base camp trading review - are they a scam? - YouTube](https://www.youtube.com/watch?v=Ksn70IDgI-I&feature=youtu.be)
+- [Base camp trading review - Are they a rip off?](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/base-camp-trading-review-are-they-rip.html)
 - [Trade Genie Reviews – Scam or Good Idea?](https://howtotradeoptionsforbeginners.wordpress.com/2022/04/07/trade-genie-reviews-scam-or-good-idea/)
 - [Trade Genie Reviews - Scam or Good Idea?](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/trade-genie-reviews-scam-or-good-idea.html)
 - [www.youtube.com](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DV0bihjw7RXA&feature=youtu.be)
 - [Trade Genie Reviews - Scam or Good Idea?](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/trade-genie-reviews-scam-or-good-idea.html)
 - [www.youtube.com](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFThmysSXZh4&feature=youtu.be)
 - [Some Trading Indicators to Keep In Mind as a Beginner](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/some-trading-indicators-to-keep-in-mind.html)
-- [Some Trading Indicators to Keep In Mind as a Beginner](https://howtotradeoptionsforbeginners.wordpress.com/2022/04/05/some-trading-indicators-to-keep-in-mind-as-a-beginner/)
-- [Some Trading Indicators to Keep In Mind as a Beginner](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/some-trading-indicators-to-keep-in-mind.html)
-- [www.youtube.com](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7cdSrdT0PHY&feature=youtu.be)
-- [Who has the best options trading advisory service?](https://howtotradeoptionsforbeginners.wordpress.com/2022/04/05/who-has-the-best-options-trading-advisory-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
