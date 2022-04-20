@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Some options trading basics - YouTube](https://www.youtube.com/watch?v=0Vc-6keimek&feature=youtu.be)
 - [Options trading basics](https://howtotradeoptionsforbeginners.wordpress.com/2022/04/20/options-trading-basics/)
 - [Options trading basics](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/options-trading-basics.html)
 - [Options trading basics](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/options-trading-basics.html)
@@ -50,7 +51,6 @@ Here are some ideas to get you started:
 - [Base camp trading review - Are they a rip off?](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/base-camp-trading-review-are-they-rip.html)
 - [Trade Genie Reviews – Scam or Good Idea?](https://howtotradeoptionsforbeginners.wordpress.com/2022/04/07/trade-genie-reviews-scam-or-good-idea/)
 - [Trade Genie Reviews - Scam or Good Idea?](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/trade-genie-reviews-scam-or-good-idea.html)
-- [www.youtube.com](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DV0bihjw7RXA&feature=youtu.be)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
