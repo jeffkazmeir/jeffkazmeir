@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - [Some options trading basics - YouTube](https://www.youtube.com/watch?v=0Vc-6keimek&feature=youtu.be)
 - [Options trading basics](https://howtotradeoptionsforbeginners.wordpress.com/2022/04/20/options-trading-basics/)
 - [Options trading basics](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/options-trading-basics.html)
-- [Options trading basics](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/options-trading-basics.html)
+- [Base camp trading review – Are they a rip off?](https://howtotradeoptionsforbeginners.wordpress.com/2022/04/18/base-camp-trading-review-are-they-a-rip-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
