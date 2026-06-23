@@ -41,16 +41,16 @@ Here are some ideas to get you started:
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Some Basic Pros and Cons of Capitalism](https://optionstradingforbeginnersjeff.blogspot.com/2022/08/some-basic-pros-and-cons-of-capitalism.html)
-- [5 Classic Forex Strategies You Should Consider](https://optionstradingforbeginnersjeff.blogspot.com/2022/08/5-classic-forex-strategies-you-should.html)
 - [Crypto: The New Age of Giving Is Here](https://howtotradeoptionsforbeginners.wordpress.com/2022/05/03/crypto-the-new-age-of-giving-is-here/)
-- [Crypto: The New Age of Giving Is Here](https://optionstradingforbeginnersjeff.blogspot.com/2022/05/crypto-new-age-of-giving-is-here.html)
 - [Options trading basics](https://howtotradeoptionsforbeginners.wordpress.com/2022/04/20/options-trading-basics/)
-- [Options trading basics](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/options-trading-basics.html)
 - [Base camp trading review – Are they a rip off?](https://howtotradeoptionsforbeginners.wordpress.com/2022/04/18/base-camp-trading-review-are-they-a-rip-off/)
-- [Base camp trading review - Are they a rip off?](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/base-camp-trading-review-are-they-rip.html)
 - [Trade Genie Reviews – Scam or Good Idea?](https://howtotradeoptionsforbeginners.wordpress.com/2022/04/07/trade-genie-reviews-scam-or-good-idea/)
-- [Trade Genie Reviews - Scam or Good Idea?](https://optionstradingforbeginnersjeff.blogspot.com/2022/04/trade-genie-reviews-scam-or-good-idea.html)
+- [Some Trading Indicators to Keep In Mind as a Beginner](https://howtotradeoptionsforbeginners.wordpress.com/2022/04/05/some-trading-indicators-to-keep-in-mind-as-a-beginner/)
+- [Who has the best options trading advisory service?](https://howtotradeoptionsforbeginners.wordpress.com/2022/04/05/who-has-the-best-options-trading-advisory-service/)
+- [What to look for when looking for the best tablet for stock trading](https://howtotradeoptionsforbeginners.wordpress.com/2022/03/31/what-to-look-for-when-looking-for-the-best-tablet-for-stock-trading/)
+- [Here’s what to keep in mind when you’re looking for a table to trade stocks](https://howtotradeoptionsforbeginners.wordpress.com/2022/03/30/heres-what-to-keep-in-mind-when-youre-looking-for-a-table-to-trade-stocks/)
+- [Remote Work is Re-shaping the Work Environment. Here are some pros &amp; cons](https://howtotradeoptionsforbeginners.wordpress.com/2022/03/24/remote-work-is-re-shaping-the-work-environment-here-are-some-pros-cons/)
+- [What to Keep in Mind When Looking for a Mortgage](https://howtotradeoptionsforbeginners.wordpress.com/2022/03/07/what-to-keep-in-mind-when-looking-for-a-mortgage/)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
